@@ -8,3 +8,6 @@ Java OOP revision with the simple examples. For all of the team members, authore
   - each folder have application.java and meaningful entities are used.
   - README file for the related explaination will be updated to this repo later by each contributors
 
+
+
+See the folders under src/java/main/com/burmaguru/
