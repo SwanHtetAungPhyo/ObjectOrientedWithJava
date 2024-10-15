@@ -1,2 +1,4 @@
-package com.burmaguru.abstraction.abstractClass;public class Shape {
+package com.burmaguru.abstraction.abstractClass;
+
+public class Shape {
 }
